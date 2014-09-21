@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: "description goes here" 
 twitter_username: jekyllrb
 github_username:  jekyll
-baseurl: "/freelancer-theme"
+baseurl: "/eric-kelsey"
 
 # Build settings
 markdown: kramdown
